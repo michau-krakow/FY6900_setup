@@ -1,0 +1,3 @@
+[submodule "fygen"]
+	path = fygen
+	url = .git@github.com:michau-krakow/fygen.git
